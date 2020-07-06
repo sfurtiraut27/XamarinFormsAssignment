@@ -1,0 +1,15 @@
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\bin\Debug\netstandard2.0\PeoplehoodApp.deps.json
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\bin\Debug\netstandard2.0\PeoplehoodApp.dll
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\bin\Debug\netstandard2.0\ref\PeoplehoodApp.dll
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\bin\Debug\netstandard2.0\PeoplehoodApp.pdb
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.csprojAssemblyReference.cache
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.AssemblyInfoInputs.cache
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.AssemblyInfo.cs
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.dll
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\ref\PeoplehoodApp.dll
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.pdb
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeopleDetailPage.xaml.g.cs
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\PeoplehoodApp.csproj.CoreCompileInputs.cache
+E:\Sfurti-Technical\PeoplehoodApp\PeoplehoodApp\obj\Debug\netstandard2.0\XamlC.stamp
