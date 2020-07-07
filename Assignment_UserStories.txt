@@ -1,0 +1,21 @@
+I have designed user stories roughly for my undersanding.
+
+User Stories:
+
+1. Display content to user using swapi.dev API
+
+Subtasks:
+1. Design UI
+2. Fetch Data from API
+3. Parse Data
+4. Display data to user for ID
+5. Add required validation
+6. Unit test cases
+
+2. Validate an ID number for SA citizen
+
+Subtasks:
+1. Design UI
+2. Add required validation
+3. Display user whether ID is SA citozen or not
+4. Unit test cases
